@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishna072003
+- 👋 Hi, I’m @krishna
 - 👀 I’m Interested in ... Data analysts & Data science 
 - 🌱 Currently learning... Phython,Machine Learning,MsExcel,Power-Bi,Tableau,Sql
 - 📫 How to reach me ...send mail to ->ch03krishna07@gmail.com
